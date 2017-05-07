@@ -1,9 +1,9 @@
 # JavaScript Projects
-TutorialPoints
-	- Source: https://www.tutorialspoint.com/javascript
+## TutorialPoints <br />
+	- Source: https://www.tutorialspoint.com/javascript <br />
 
-Building a Bookmarker Application
-	- Youtube: https://www.youtube.com/watch?v=DIVfDZZeGxM
-	- Github: https://github.com/bradtraversy/bookmarker
-	- Bootstrap: http://getbootstrap.com/
-	- Bootstrap Version: 3.3.7
+## Building a Bookmarker Application <br />
+	- Youtube: https://www.youtube.com/watch?v=DIVfDZZeGxM <br />
+	- Github: https://github.com/bradtraversy/bookmarker <br />
+	- Bootstrap: http://getbootstrap.com/ <br />
+	- Bootstrap Version: 3.3.7 <br />
